@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "QZfNG6i4AC9fP0AbBg8iucEuvNMvpk3bpBsT3WCPogk=",
+  "Source": "Warehouse_App",
+  "BasePath": "_content/Warehouse_App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Warehouse_App\\wwwroot",
+      "Source": "Warehouse_App",
+      "ContentRoot": "C:\\Users\\eryk.gregorczyk\\RiderProjects\\Warehouse_App\\Warehouse_App\\wwwroot\\",
+      "BasePath": "_content/Warehouse_App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
